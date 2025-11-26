@@ -3,7 +3,7 @@
 We are a **small** 🤏 group of **developers** that are looking to **expand** their presence on the **web**! 🌐 Support us now by purchasing our [email service ➤](https://email.qplus.cloud/purchase.html)!
 
 ### 🌟 Our Projects
-We have made a handful amount of tools that we think are the crème de la crème from us!
+We have made a handful amount of tools that are simple, fast, and most importantly, loved!
 
 #### 💬 Clatter
 Clatter is a workplace-centered platform.
